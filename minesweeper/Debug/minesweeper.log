@@ -1,0 +1,375 @@
+﻿  minesweeper.cpp
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(587,13): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(587,16): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(587,48): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(587,51): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(589,14): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(589,17): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(589,52): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(589,55): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(595,19): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(595,22): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(595,57): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(595,60): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(601,19): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(601,22): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(601,57): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(601,60): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(607,19): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(607,22): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(607,57): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(607,60): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(613,19): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(613,22): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(613,57): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(613,60): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(619,19): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(619,22): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(619,57): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(619,60): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(625,19): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(625,22): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(625,57): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(625,60): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(631,19): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(631,22): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(631,57): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(631,60): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(640,14): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(640,17): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(648,18): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(648,21): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(653,13): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(653,16): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(663,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(663,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(668,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(668,43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(669,14): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(669,17): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(678,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(678,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(686,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(686,47): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(689,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(689,49): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(692,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(692,49): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(695,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(695,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(707,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(712,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(717,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(722,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(727,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(732,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(737,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(742,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(747,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(752,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(757,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(765,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(770,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(775,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(780,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(785,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(790,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(795,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(800,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(805,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(810,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(815,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(823,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.cpp(828,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  minesweeper.vcxproj -> E:\C++ code\COP3503\minesweeper\minesweeper\Debug\minesweeper.exe
+
+Project Performance Summary:
+     2804 ms  E:\C++ code\COP3503\minesweeper\minesweeper\minesweeper\minesweeper.vcxproj   1 calls
+               2804 ms  Build                                      1 calls
+
+Target Performance Summary:
+        0 ms  _ResourceCompile                           1 calls
+        0 ms  _Link                                      1 calls
+        0 ms  AfterLink                                  1 calls
+        0 ms  PreLinkEvent                               1 calls
+        0 ms  DoLinkOutputFilesMatch                     1 calls
+        0 ms  PrepareResourceNames                       1 calls
+        0 ms  CreateCustomManifestResourceNames          1 calls
+        0 ms  ComputeManifestInputsTargets               1 calls
+        0 ms  ComputeLinkInputsFromProject               1 calls
+        0 ms  ComputeCLGeneratedLinkInputs               1 calls
+        0 ms  _ALink                                     1 calls
+        0 ms  ComputeManifestGeneratedLinkerInputs       1 calls
+        0 ms  ComputeRCOutputs                           1 calls
+        0 ms  BeforeLink                                 1 calls
+        0 ms  BuildLinkTraverse                          1 calls
+        0 ms  BuildCompile                               1 calls
+        0 ms  _BuildCompileAction                        1 calls
+        0 ms  AfterBuildCompileEvent                     1 calls
+        0 ms  AfterResourceCompile                       1 calls
+        0 ms  MakeDirsForResourceCompile                 1 calls
+        0 ms  BeforeResourceCompile                      1 calls
+        0 ms  ComputeRCGeneratedLinkInputs               1 calls
+        0 ms  _Manifest                                  1 calls
+        0 ms  ResolvedXDCMake                            1 calls
+        0 ms  ComputeCLCompileGeneratedXDCFiles          1 calls
+        0 ms  AfterBuild                                 1 calls
+        0 ms  BuildLink                                  1 calls
+        0 ms  _BuildLinkAction                           1 calls
+        0 ms  PostBuildEvent                             1 calls
+        0 ms  PrepareForRun                              1 calls
+        0 ms  CopyFilesToOutputDirectory                 1 calls
+        0 ms  _CheckForCompileOutputs                    1 calls
+        0 ms  _CopySourceItemsToOutputDirectory          1 calls
+        0 ms  _GetCopyToOutputDirectoryItemsFromThisProject   1 calls
+        0 ms  _GetCopyToOutputDirectoryItemsFromTransitiveProjectReferences   1 calls
+        0 ms  GetCopyToOutputDirectoryXamlAppDefs        1 calls
+        0 ms  _PopulateCommonStateForGetCopyToOutputDirectoryItems   1 calls
+        0 ms  _Deploy                                    1 calls
+        0 ms  _Appverifier                               1 calls
+        0 ms  CreateSatelliteAssemblies                  1 calls
+        0 ms  _GenerateSatelliteAssemblyInputs           1 calls
+        0 ms  _BscMake                                   1 calls
+        0 ms  MakeDirsForBscMake                         1 calls
+        0 ms  ComputeCLCompileGeneratedSbrFiles          1 calls
+        0 ms  _XdcMake                                   1 calls
+        0 ms  MakeDirsForXdcMake                         1 calls
+        0 ms  _ClCompile                                 1 calls
+        0 ms  AfterClCompile                             1 calls
+        0 ms  Build                                      1 calls
+        0 ms  _SelectedFiles                             1 calls
+        0 ms  SetBuildDefaultEnvironmentVariables        1 calls
+        0 ms  GetResolvedWinMD                           1 calls
+        0 ms  _Xsd                                       1 calls
+        0 ms  CopyFileToFolders                          1 calls
+        0 ms  _CheckWindowsSDKInstalled                  1 calls
+        0 ms  SetCABuildNativeEnvironmentVariables       1 calls
+        0 ms  GetReferenceAssemblyPaths                  1 calls
+        0 ms  ComputeCustomBuildOutput                   1 calls
+        0 ms  ResolveAssemblyReferences                  1 calls
+        0 ms  AfterResolveReferences                     1 calls
+        0 ms  SelectCustomBuild                          1 calls
+        0 ms  SelectClCompile                            1 calls
+        0 ms  PreBuildEvent                              1 calls
+        0 ms  BeforeBuildGenerateSources                 1 calls
+        0 ms  ExpandSDKReferences                        1 calls
+        0 ms  ComputeMIDLGeneratedCompileInputs          1 calls
+        0 ms  AfterMidl                                  1 calls
+        0 ms  BeforeClCompile                            1 calls
+        0 ms  _PrepareForBuild                           1 calls
+        0 ms  BeforeResolveReferences                    1 calls
+        0 ms  _SplitProjectReferencesByFileExistence     1 calls
+        0 ms  ComputeReferenceCLInput                    1 calls
+        0 ms  FindReferenceAssembliesForReferences       1 calls
+        0 ms  PrepareProjectReferences                   1 calls
+        0 ms  ComputeCLInputPDBName                      1 calls
+        0 ms  BuildGenerateSourcesTraverse               1 calls
+        0 ms  BuildCompileTraverse                       1 calls
+        0 ms  BuildGenerateSources                       1 calls
+        0 ms  GetFrameworkPaths                          1 calls
+        0 ms  _BuildGenerateSourcesAction                1 calls
+        0 ms  AfterBuildGenerateSourcesEvent             1 calls
+        0 ms  AfterBuildGenerateSources                  1 calls
+        0 ms  _Midl                                      1 calls
+        0 ms  ResolveReferences                          1 calls
+        1 ms  ComputeCLOutputs                           1 calls
+        1 ms  ComputeLinkImportLibraryOutputsForClean    1 calls
+        1 ms  _PrepareForReferenceResolution             1 calls
+        1 ms  IncrementalClean                           1 calls
+        1 ms  ResolveSDKReferences                       1 calls
+        1 ms  _GetProjectReferenceTargetFrameworkProperties   1 calls
+        1 ms  MakeDirsForMidl                            1 calls
+        1 ms  SplitResourcesByCulture                    1 calls
+        1 ms  _CleanGetCurrentAndPriorFileWrites         1 calls
+        1 ms  FinalizeBuildStatus                        1 calls
+        1 ms  AssignTargetPaths                          1 calls
+        1 ms  ComputeLegacyManifestEmbedding             1 calls
+        1 ms  FixupCLCompileOptions                      1 calls
+        2 ms  RegisterOutput                             1 calls
+        2 ms  GetCopyToOutputDirectoryItems              1 calls
+        3 ms  ComputeLinkSwitches                        1 calls
+        3 ms  MakeDirsForLink                            1 calls
+        5 ms  CustomBuild                                1 calls
+        6 ms  MakeDirsForCl                              1 calls
+        6 ms  WarnCompileDuplicatedFilename              1 calls
+        6 ms  InitializeBuildStatus                      1 calls
+        6 ms  AssignProjectConfiguration                 1 calls
+        6 ms  SetTelemetryEnvironmentVariables           1 calls
+       11 ms  PrepareForBuild                            1 calls
+       22 ms  ResolveProjectReferences                   1 calls
+       30 ms  _CheckForInvalidConfigurationAndPlatform   1 calls
+     1337 ms  Link                                       1 calls
+     1341 ms  ClCompile                                  1 calls
+
+Task Performance Summary:
+        0 ms  Delete                                     2 calls
+        0 ms  WriteLinesToFile                           1 calls
+        0 ms  RemoveDuplicates                           2 calls
+        0 ms  ConvertToAbsolutePath                      1 calls
+        0 ms  AssignTargetPath                           7 calls
+        1 ms  ReadLinesFromFile                          2 calls
+        1 ms  MakeDir                                    9 calls
+        1 ms  MSBuild                                    1 calls
+        1 ms  AssignCulture                              1 calls
+        1 ms  FindUnderPath                              5 calls
+        1 ms  CheckVCToolsetVersion                      1 calls
+        2 ms  CallTarget                                 2 calls
+        2 ms  SetEnv                                     8 calls
+        4 ms  Touch                                      2 calls
+        5 ms  Message                                    3 calls
+        5 ms  GetOutOfDateItems                          3 calls
+        6 ms  AssignProjectConfiguration                 1 calls
+     1337 ms  Link                                       1 calls
+     1341 ms  CL                                         1 calls
